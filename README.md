@@ -1,5 +1,6 @@
 🔥 Morgan Stanley DSA — Must-Do 50
 🟢 Priority 1 — Do these first
+
 Two Sum — HashMap
 3Sum — Two Pointers
 Longest Substring Without Repeating Characters — Sliding Window
@@ -17,7 +18,12 @@ Binary Search — Binary Search
 Search in Rotated Sorted Array — Binary Search
 Find Minimum in Rotated Sorted Array — Binary Search
 Kth Largest Element in an Array — Heap / Quickselect
+
+
+
+
 🟡 Priority 2 — Very important
+
 Reverse Linked List
 Merge Two Sorted Lists
 Linked List Cycle
@@ -34,7 +40,10 @@ Serialize and Deserialize Binary Tree ⭐
 Kth Smallest Element in BST
 Number of Islands
 Clone Graph ⭐
+
+
 🟠 Priority 3 — Strongly recommended
+
 Course Schedule — Topological Sort
 Course Schedule II
 Rotting Oranges — BFS
@@ -49,7 +58,10 @@ Coin Change
 House Robber
 Longest Increasing Subsequence
 Longest Common Subsequence
+
+
 🔴 Priority 4 — Advanced coverage
+
 Merge K Sorted Lists — Heap
 Trapping Rain Water — Two Pointers / Stack
 Median of Two Sorted Arrays — Binary Search
